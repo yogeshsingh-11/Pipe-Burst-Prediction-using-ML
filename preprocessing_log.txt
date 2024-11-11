@@ -1,0 +1,55 @@
+Preprocessing Log
+=================
+File: Raw Data_2023\node 27 Oct23_Jan24\node 27 dec 23.csv - Rows Removed: 69288
+File: Raw Data_2023\node 27 Oct23_Jan24\node 27 jan 24.csv - Rows Removed: 64539
+File: Raw Data_2023\node 27 Oct23_Jan24\node 27 oct 23.csv - Rows Removed: 50909
+File: Raw Data_2023\node s41 July23_Jan24\node s41 aug23.csv - Rows Removed: 1263
+File: Raw Data_2023\node s41 July23_Jan24\node s41 dec23.csv - Rows Removed: 360
+File: Raw Data_2023\node s41 July23_Jan24\node s41 jan24.csv - Rows Removed: 821
+File: Raw Data_2023\node s41 July23_Jan24\node s41 july23.csv - Rows Removed: 18
+File: Raw Data_2023\node s41 July23_Jan24\node s41 nov23.csv - Rows Removed: 1287
+File: Raw Data_2023\node s41 July23_Jan24\node s41 oct23.csv - Rows Removed: 1771
+File: Raw Data_2023\node s41 July23_Jan24\node s41 sep23.csv - Rows Removed: 1543
+File: Raw Data_2023\node13 July23_Jan24\node13 aug23.csv - Rows Removed: 1317
+File: Raw Data_2023\node13 July23_Jan24\node13 dec23.csv - Rows Removed: 344
+File: Raw Data_2023\node13 July23_Jan24\node13 jan24.csv - Rows Removed: 213
+File: Raw Data_2023\node13 July23_Jan24\node13 july23.csv - Rows Removed: 27
+File: Raw Data_2023\node13 July23_Jan24\node13 nov23.csv - Rows Removed: 715
+File: Raw Data_2023\node13 July23_Jan24\node13 oct23.csv - Rows Removed: 843
+File: Raw Data_2023\node13 July23_Jan24\node13 sep23.csv - Rows Removed: 774
+File: Raw Data_2023\node15 July23_Jan24\node15 aug23.csv - Rows Removed: 1271
+File: Raw Data_2023\node15 July23_Jan24\node15 dec23.csv - Rows Removed: 349
+File: Raw Data_2023\node15 July23_Jan24\node15 jan24.csv - Rows Removed: 743
+File: Raw Data_2023\node15 July23_Jan24\node15 july23.csv - Rows Removed: 18
+File: Raw Data_2023\node15 July23_Jan24\node15 nov23.csv - Rows Removed: 1759
+File: Raw Data_2023\node15 July23_Jan24\node15 oct23.csv - Rows Removed: 2104
+File: Raw Data_2023\node15 July23_Jan24\node15 sep23.csv - Rows Removed: 1492
+File: Raw Data_2023\node16 July23_Jan24\node16 aug23.csv - Rows Removed: 1355
+File: Raw Data_2023\node16 July23_Jan24\node16 dec23.csv - Rows Removed: 349
+File: Raw Data_2023\node16 July23_Jan24\node16 jan24.csv - Rows Removed: 756
+File: Raw Data_2023\node16 July23_Jan24\node16 july23.csv - Rows Removed: 19
+File: Raw Data_2023\node16 July23_Jan24\node16 nov23.csv - Rows Removed: 1167
+File: Raw Data_2023\node16 July23_Jan24\node16 oct23.csv - Rows Removed: 1502
+File: Raw Data_2023\node16 July23_Jan24\node16 sep23.csv - Rows Removed: 1514
+File: Raw Data_2023\node22c Oct23_Jan24\node22c dec23.csv - Rows Removed: 28962
+File: Raw Data_2023\node22c Oct23_Jan24\node22c jan24.csv - Rows Removed: 1130
+File: Raw Data_2023\node22c Oct23_Jan24\node22c nov23.csv - Rows Removed: 74806
+File: Raw Data_2023\node22c Oct23_Jan24\node22c oct23.csv - Rows Removed: 28836
+File: Raw Data_2023\node24 Oct23_Jan24\node24  nov23.csv - Rows Removed: 105677
+File: Raw Data_2023\node24 Oct23_Jan24\node24 dec23.csv - Rows Removed: 29179
+File: Raw Data_2023\node24 Oct23_Jan24\node24 jan24.csv - Rows Removed: 42530
+File: Raw Data_2023\node24 Oct23_Jan24\node24 oct23.csv - Rows Removed: 39915
+File: Raw Data_2023\node30 July23_Jan24\node30  sep23.csv - Rows Removed: 421
+File: Raw Data_2023\node30 July23_Jan24\node30 aug23.csv - Rows Removed: 825
+File: Raw Data_2023\node30 July23_Jan24\node30 jan24.csv - Rows Removed: 32
+File: Raw Data_2023\node30 July23_Jan24\node30 july23.csv - Rows Removed: 18
+File: Raw Data_2023\node30 July23_Jan24\node30 nov23.csv - Rows Removed: 285
+File: Raw Data_2023\node30 July23_Jan24\node30 oct23.csv - Rows Removed: 371
+File: Raw Data_2023\node30 July23_Jan24\node30dec23.csv - Rows Removed: 0
+File: Raw Data_2023\node32 July23_Jan24\node32 aug 23.csv - Rows Removed: 1252
+File: Raw Data_2023\node32 July23_Jan24\node32 dec23.csv - Rows Removed: 2
+File: Raw Data_2023\node32 July23_Jan24\node32 jan24.csv - Rows Removed: 365
+File: Raw Data_2023\node32 July23_Jan24\node32 july23.csv - Rows Removed: 18
+File: Raw Data_2023\node32 July23_Jan24\node32 nov23.csv - Rows Removed: 1070
+File: Raw Data_2023\node32 July23_Jan24\node32 oct23.csv - Rows Removed: 1523
+File: Raw Data_2023\node32 July23_Jan24\node32 sep23.csv - Rows Removed: 1523
